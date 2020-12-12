@@ -1,0 +1,34 @@
+*{
+	height:100%;
+	padding:0px;
+	margin:0px;
+	
+}
+body{
+	background-image: url(background.jpg);
+	background-size: 100%;
+}
+header{
+	background-image: url(1jpg.jpg);
+	width:100%;
+	height:80px;
+	background-size: 100% 100px;
+	text-align: center;
+}
+#nome{
+	height:60px;
+	text-align: center;
+	margin: 10px 10px;
+	
+}
+#jogo{
+	margin: 8% 28%;
+}
+#jogoimg{
+	background-image: url(jogomenu.png);
+	background-size: 600px 350px;
+	width: 600px;
+	height: 350px;
+	background-repeat: no-repeat;
+	
+}
